@@ -24,6 +24,13 @@
             </intent-filter>
         </activity>
 
+        <activity android:name=".anim.AnimationComparison">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="com.maxtech.maxdemos.CATEGORY" />
+            </intent-filter>
+        </activity>
+
     </application>
 
 </manifest>
