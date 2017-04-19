@@ -45,8 +45,6 @@ public class SpringAnimationDemo extends Activity {
     private SpringAnimation mAnimX2;
     private SpringAnimation mAnimY2;
 
-    private boolean mIsDrag;
-
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
